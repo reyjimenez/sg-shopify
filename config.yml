@@ -1,0 +1,6 @@
+development:
+  password: "0ed442c2568930b371796e63b461e2ce"
+  store: "sun-genomics.myshopify.com"
+  theme_id: "175176581"
+  bucket_size: 40
+  refill_rate: 2
